@@ -1,10 +1,10 @@
 
 // wrapper function
-// function(__dirname, __filename, module, require,  exports) {
+// function(_dirname, _filename, module, require,  exports) {
 
 
-console.log(__dirname);
-console.log(__filename);
+console.log(_dirname);
+console.log(_filename);
 console.log(module);
 console.log(require);
 console.log(exports);
